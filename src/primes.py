@@ -6,6 +6,8 @@ upper = 500
 
 print("Prime numbers between", lower, "and", upper, "are:")
 
+# Programa que calcula numeros primos
+
 for num in range(lower, upper + 1):
    # all prime numbers are greater than 1
    if num > 1:
